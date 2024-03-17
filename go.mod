@@ -9,6 +9,7 @@ require (
 	github.com/gofiber/fiber/v2 v2.51.0
 	github.com/golang-jwt/jwt/v5 v5.2.0
 	github.com/joho/godotenv v1.3.0
+	github.com/redis/go-redis/v9 v9.5.1
 	go.elastic.co/apm/module/apmmongo v1.15.0
 	go.mongodb.org/mongo-driver v1.13.0
 )
